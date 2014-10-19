@@ -76,7 +76,7 @@ cp /afs/cern.ch/user/s/sshalhou/public/INSTALL_PUBLIC_FILES/mvaPFMEt_53_Dec2012.
 cp -r /afs/cern.ch/user/s/sshalhou/public/INSTALL_PUBLIC_FILES/HiggsPtReweightFiles UserCode/.
 ################################################
 
-ehco "getting pile-up correction root files "
+echo "getting pile-up correction root files "
 ####################################################
 
 mkdir UserCode/PileUpReWeightFiles
